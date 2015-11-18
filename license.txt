@@ -1,0 +1,2 @@
+I am learning Git.
+Because Git is really a important tool.
