@@ -1,3 +1,3 @@
 Git is a version
 what happened
-Git tracks changes
+Git tracks changes of files.
